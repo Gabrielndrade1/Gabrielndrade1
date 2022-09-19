@@ -5,6 +5,11 @@
 
 - 📫 How to reach me E-mail **gabrielandrade@outlook.com.br
 
+- 💞️ I’m looking to collaborate on Datajobs(Data Visualization and Data Analysis) and Python Programming
+
+- 👀 I’m interested in Data Analysis
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-andrade-617472229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-andrade-617472229/" height="30" width="40" /></a>
@@ -15,25 +20,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @Gabrielndrade1
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, SQL, Power B.I, Excel
-- 💞️ I’m looking to collaborate on Datajobs and Python Programming
-- 📫 How to reach me, 
-   E-mail gabrielandrade@outlook.com.br,
-   LinkedIn https://www.linkedin.com/in/gabriel-andrade-617472229/
 
 <!---
 Gabrielndrade1/Gabrielndrade1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
