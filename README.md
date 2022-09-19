@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Power B.I, SQL and Excel**
 
-- 📫 How to reach me **gabrielandrade@outlook.com.br, https://www.linkedin.com/in/gabriel-andrade-617472229/**
+- 📫 How to reach me E-mail **gabrielandrade@outlook.com.br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
