@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrielndrade1
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python, SQL,Power B.I, Excel and Tableau
+- 🌱 I’m currently learning Python, SQL, Power B.I, Excel
 - 💞️ I’m looking to collaborate on Datajobs and Python Programming
 - 📫 How to reach me gabrielandrade@outlook.com.br
 
